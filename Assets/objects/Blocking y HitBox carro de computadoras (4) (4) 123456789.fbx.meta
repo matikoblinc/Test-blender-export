@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: c4f4545f32ee16441a1bed2571379fbd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: carro de computadoras
+    100004: rueda del carro 1
+    100006: rueda del carro 2
+    100008: rueda del carro 3
+    100010: rueda del carro 4
+    400000: //RootNode
+    400002: carro de computadoras
+    400004: rueda del carro 1
+    400006: rueda del carro 2
+    400008: rueda del carro 3
+    400010: rueda del carro 4
+    2100000: cuerpo del carro
+    2100002: boton de encendido
+    2100004: conexion del cable
+    2100006: oxido
+    2100008: negro
+    2100010: candado
+    2100012: patas de las ruedas
+    2100014: blanco pata 3
+    2100016: Color rueda
+    2100018: blanco pata 4
+    2100020: balnco pata 1
+    2100022: blanco pata 2
+    2300000: carro de computadoras
+    2300002: rueda del carro 1
+    2300004: rueda del carro 2
+    2300006: rueda del carro 3
+    2300008: rueda del carro 4
+    3300000: carro de computadoras
+    3300002: rueda del carro 1
+    3300004: rueda del carro 2
+    3300006: rueda del carro 3
+    3300008: rueda del carro 4
+    4300000: carro de computadoras
+    4300002: rueda del carro 3
+    4300004: rueda del carro 4
+    4300006: rueda del carro 1
+    4300008: rueda del carro 2
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color rueda
+    second: {fileID: 2100000, guid: f18202fb8f4f3c54f9caf448ca6cf90c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: balnco pata 1
+    second: {fileID: 2100000, guid: 1aa8e54fa15abe7439345d8042728ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco pata 2
+    second: {fileID: 2100000, guid: a944b0c8b2395fa4797ecc496cd7e04e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco pata 3
+    second: {fileID: 2100000, guid: ed072b293785ace4083d4b03fb60ebe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco pata 4
+    second: {fileID: 2100000, guid: c610d9007b919b945b6af267fe06b6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boton de encendido
+    second: {fileID: 2100000, guid: 12f2dabb9764cb54ebc2bd7aaf83a17d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candado
+    second: {fileID: 2100000, guid: 0b76252bbe488fc4f8a6c56772a16cb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: conexion del cable
+    second: {fileID: 2100000, guid: b93b67bd862fe2540b1c846800c4420c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cuerpo del carro
+    second: {fileID: 2100000, guid: 6133f32d70f4ff9479eb2fe8d6a9b5f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: negro
+    second: {fileID: 2100000, guid: 69926a68979ad8246b1a48aa89d96aad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oxido
+    second: {fileID: 2100000, guid: 14f8a0bf94abcd04984edbbc8ce56c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: patas de las ruedas
+    second: {fileID: 2100000, guid: 76564fa1de12a0a458fa4a2b91324dfe, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_MetalSheet_Aged_1K_albedo
+    second: {fileID: 2800000, guid: 6c961957cf3d06d4092746c1c0979e6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TexturesCom_Rust_Pitted_1K_albedo
+    second: {fileID: 2800000, guid: 61babaf91a97b3543b712350f12ea3dc, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
